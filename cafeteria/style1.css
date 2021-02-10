@@ -1,0 +1,37 @@
+p.centrado{
+    text-align: center;
+    color: brown;
+    font-weight: bold;
+    font-size: 1cm;
+}
+
+body{
+    background-color: rgb(255, 215, 177);
+    color: brown;
+}
+
+div.divuno{
+    text-align: center;
+    color: brown;
+}
+
+div.divdos{
+    text-align: right;
+}
+
+
+p.wha{
+    position: relative;
+    left: 65px;
+    top: -50px;
+}
+
+div.divcuatro {
+    text-align: center;
+}
+
+p.face{
+    position: relative;
+    left: 100px;
+    top: -50px;
+}
